@@ -14,7 +14,7 @@ echo "nVidia"
 pacstrap /mnt nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
 
 echo "DE"
-pacstrap /mnt i3 sddm picom kitty discord telegram-desktop nautilus lxappearance vivaldi vivaldi-ffmpeg-codecs lutris steam feh spectacle code
+pacstrap /mnt i3 sddm picom kitty discord telegram-desktop nautilus lxappearance vivaldi vivaldi-ffmpeg-codecs lutris steam feh spectacle code zsh
 
 pacstrap /mnt noto-fonts gnu-free-fonts ttf-hack
 
