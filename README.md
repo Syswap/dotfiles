@@ -15,3 +15,6 @@ You have to configure the rest of ArchLinux, like :
     <li>Localhost</li>
     <li>Users (Personnal and root)</li>
 </ol>
+
+Note : 
+The installation file named "archinstall_V3-574TG.sh" is for my laptop
