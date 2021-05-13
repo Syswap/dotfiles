@@ -8,6 +8,11 @@ Lxappearance is here just for set themes and icons.
 
 For ArchLinux, there is 2 type of files. The files marked with UEFI are made for UEFI system (os-prober is already in theses files in if you make a dual boot with Windows)
 
+
+## Warning
+You have to change the pacman.conf file to enable multilib
+
+
 You have to configure the rest of ArchLinux, like : 
 
 <ol>
